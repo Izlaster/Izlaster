@@ -53,6 +53,8 @@ Courses | Date
 National University of Science and Technology "MISIS" (Applied Mathematics) | 2019 ------> 2023 
 National University of Science and Technology "MISIS" (Artificial Intelligence) | 2023 ------> now 
 
+---
+
 <h3 align="left">GitHub Badges:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Izlaster&show_icons=true&locale=en&layout=compact" alt="Izlaster" /></p>
 
