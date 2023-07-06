@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lev 
+<h1 align="center">Hi there, I'm Leo 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer vision student, junior data scientist from Russia 🇷🇺</h3>
 
