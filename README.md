@@ -50,7 +50,7 @@ I have been programming for several years (mainly for educational purposes). I g
 Courses | Date 
 --- | --- 
 National University of Science and Technology "MISIS" (Applied Mathematics) | 2019 ------> 2023 
-National University of Science and Technology "MISIS" (Artificial Intelligence) | 2023 ------> now 
+National University of Science and Technology "MISIS" (Artificial Intelligence) | 2023 ------> 2025 
 
 ---
 
