@@ -28,7 +28,7 @@
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="88" y="129" fill="#f4f6fb" font-size="55" font-weight="650" letter-spacing="-1.8">Lev Izmailov</text>
-    <text x="90" y="177" fill="#91e4d7" font-size="23" font-weight="600">AI Engineer</text>
+    <text x="90" y="177" fill="#91e4d7" font-size="23" font-weight="600">AI Engineer · Mid+</text>
     <text x="90" y="222" fill="#e0e5ef" font-size="20" font-weight="400">Building knowledge systems with LLMs, RAG, and agents.</text>
     <text x="90" y="274" fill="#a9b5cb" font-size="15" font-weight="500" letter-spacing="0.2">Search · source context · useful answers</text>
   </g>

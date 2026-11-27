@@ -10,7 +10,7 @@
 
 ## Current work
 
-I’m a Senior Engineer at **FGAU «CIT»** in Moscow. I build systems for scientific search and article preparation, connecting document retrieval, LLM workflows, agent tools, and source-linked interfaces.
+I’m an **AI Engineer (Mid+)** at **FGAU «CIT»** in Moscow. I build systems for scientific search and article preparation, connecting document retrieval, LLM workflows, agent tools, and source-linked interfaces.
 
 ## Selected work
 
